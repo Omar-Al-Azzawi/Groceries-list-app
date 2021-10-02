@@ -1,0 +1,29 @@
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  width: 100%;
+}
+label {
+  margin: 5px;
+}
+input {
+  padding: 10px 50px;
+  border-radius: 10px;
+  border: 1px solid;
+}
+.btn_add {
+  padding: 5px 15px;
+  border: 1px solid blueviolet;
+  background-color: blueviolet;
+  color: #fff;
+  cursor: pointer;
+  transition: all 300ms ease-in-out;
+  border-radius: 5px;
+  margin: 5px;
+}
+.btn_add:hover {
+  background-color: transparent;
+  color: blueviolet;
+}

@@ -1,0 +1,30 @@
+.item {
+  border-bottom: 1px solid;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.checkbox {
+  margin: 10px;
+}
+.lable {
+  font-size: 1.5rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: darkblue;
+}
+.btn {
+  padding: 5px 15px;
+  border: 1px solid blueviolet;
+  background-color: transparent;
+  cursor: pointer;
+  transition: all 300ms ease-in-out;
+  border-radius: 5px;
+}
+.btn:hover {
+  background-color: blueviolet;
+  color: #fff;
+}
+h5 {
+  text-align: center;
+  margin: 20px;
+}

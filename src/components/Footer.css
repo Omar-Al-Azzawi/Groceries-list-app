@@ -1,0 +1,10 @@
+footer {
+  height: 15vh;
+  position: fixed;
+  bottom: 0;
+  background-color: blueviolet;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+  padding: 10px 20px;
+}
